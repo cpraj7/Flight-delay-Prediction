@@ -35,15 +35,15 @@ Note: We have used spark SQL for data preprocessing.
 Model training
 -   Train data set is split into 75 and 25.
 -   Below Models built using pre-processed train data.
-        Gaussian Naive Bayes
-        Logistic regression
-        Decision trees
-        Random forest
-        LDA
-        ADA boost
-        Gradient boost with Naive Bayes
-        Gradient boost with decision tree
-        KNN 
+       - Gaussian Naive Bayes
+       - Logistic regression
+       - Decision trees
+       - Random forest
+       - LDA
+       - ADA boost
+       - Gradient boost with Naive Bayes
+       - Gradient boost with decision tree
+       - KNN 
 
 Feature Engineering
 -	Removed unused columns
